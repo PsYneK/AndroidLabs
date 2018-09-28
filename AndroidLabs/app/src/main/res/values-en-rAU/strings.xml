@@ -2,5 +2,8 @@
     <string name="hello_message">How ya going world?</string>
     <string name="button_text">I\'m a button mate!</string>
     <string name="app_name">Lab1</string>
-    <string name="fail_message">madness mate</string>
+    <string name="login_message">Login Mate</string>
+    <string name="login_name">login name mate</string>
+    <string name="password">password mate</string>
+    <string name="what_do">Crickey! what does this do?</string>
 </resources>

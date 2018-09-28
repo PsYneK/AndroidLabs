@@ -2,5 +2,8 @@
     <string name="hello_message">Hello World!</string>
     <string name="button_text">I\'m a button!</string>
     <string name="app_name">Lab1</string>
-    <string name="fail_message">madness</string>
+    <string name="login_message">Login</string>
+    <string name="login_name">login name</string>
+    <string name="password">password</string>
+    <string name="what_do">what does this do?</string>
 </resources>
